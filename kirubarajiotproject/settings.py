@@ -25,7 +25,7 @@ SECRET_KEY = 'aeuqj4ou!1)7d%vap@v34%q150523j$8mv6ct%sf8z%0_^k)s@'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['kirubarajiotproject.herokuapp.com']
 
 
 # Application definition
